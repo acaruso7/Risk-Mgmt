@@ -1,0 +1,240 @@
+
+Gurobi 8.1.0 (win64, Python) logging started 04/14/19 21:05:58
+
+Academic license - for non-commercial use only
+Optimize a model with 3 rows, 4 columns and 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 4e-02]
+  Objective range  [2e+05, 2e+05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-17, 1e+00]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 3 rows, 4 columns and 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 4e-02]
+  Objective range  [2e+05, 2e+05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-17, 1e+00]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 3 rows, 4 columns and 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 4e-02]
+  Objective range  [2e+05, 2e+05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-17, 1e+00]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 3 rows, 4 columns and 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 4e-02]
+  Objective range  [2e+05, 2e+05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-17, 1e+00]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 3 rows, 4 columns and 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 4e-02]
+  Objective range  [2e+05, 2e+05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e-17, 1e+00]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 2 rows, 6 columns and 6 nonzeros
+Model has 1 quadratic constraint
+Variable types: 2 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  QMatrix range    [1e+00, 1e+00]
+  Objective range  [1e+04, 8e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e-01, 3e-01]
+  QRHS range       [3e-02, 3e-02]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 2 rows, 6 columns and 6 nonzeros
+Model has 1 quadratic constraint
+Variable types: 2 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  QMatrix range    [1e+00, 1e+00]
+  Objective range  [1e+04, 8e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e-01, 3e-01]
+  QRHS range       [3e-02, 3e-02]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 2 rows, 6 columns and 6 nonzeros
+Model has 1 quadratic constraint
+Variable types: 2 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  QMatrix range    [1e+00, 1e+00]
+  Objective range  [1e+04, 8e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e-01, 3e-01]
+  QRHS range       [6e-02, 6e-02]
+Presolve time: 0.01s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Best objective -, best bound -, gap -
+Optimize a model with 2 rows, 6 columns and 6 nonzeros
+Model has 1 quadratic constraint
+Variable types: 2 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  QMatrix range    [1e+00, 1e+00]
+  Objective range  [1e+04, 8e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e-01, 3e-01]
+  QRHS range       [6e-02, 6e-02]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Best objective -, best bound -, gap -
+Optimize a model with 2 rows, 6 columns and 6 nonzeros
+Model has 1 quadratic constraint
+Variable types: 2 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  QMatrix range    [1e+00, 1e+00]
+  Objective range  [1e+04, 8e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e-01, 3e-01]
+  QRHS range       [3e-02, 3e-02]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 2 rows, 6 columns and 6 nonzeros
+Model has 1 quadratic constraint
+Variable types: 2 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  QMatrix range    [1e+00, 1e+00]
+  Objective range  [1e+04, 8e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e-01, 3e-01]
+  QRHS range       [7e-02, 7e-02]
+Presolve removed 2 rows and 6 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Optimize a model with 2 rows, 6 columns and 6 nonzeros
+Model has 1 quadratic constraint
+Variable types: 2 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  QMatrix range    [1e+00, 1e+00]
+  Objective range  [1e+04, 8e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e-01, 3e-01]
+  QRHS range       [3e-02, 3e-02]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64, Python) logging started 04/20/19 11:22:41
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 6 columns and 6 nonzeros
+Model has 1 quadratic constraint
+Variable types: 2 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  QMatrix range    [1e+00, 1e+00]
+  Objective range  [1e+04, 8e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e-01, 3e-01]
+  QRHS range       [3e-02, 3e-02]
+Presolve time: 0.01s
+
+Explored 0 nodes (0 simplex iterations) in 0.03 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
